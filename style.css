@@ -1,0 +1,30 @@
+h1
+{color: #2B5B66}
+
+.tajuk
+{background-color: #CEE3E9}
+
+body
+{background-color: #8CC3CF}
+
+nav ul{
+	list-style-type: none;
+	background-color: #6CB2C1;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+}
+
+nav a {
+	color: black;
+	text-decoration: none;
+	padding: 15px;
+	display: block;
+text-align: center-right;}
+
+nav li{
+float: left;}
+
+
+nav a:hover{
+	background-color: #B5EDFF;}
